@@ -95,8 +95,6 @@
 
 <div align="center">
 
-![AdiSinghCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSinghCodes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=AdiSinghCodes%27s%20GitHub%20Statistics)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiSinghCodes&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
