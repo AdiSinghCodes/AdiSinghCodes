@@ -16,19 +16,19 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Hackathon+Winner;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Frontend+Developer;Hackathon+Winner;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Machine Learning & AI projects**
-- 🌱 I'm currently learning **Full Stack Development & Advanced ML/DL**
+- 🌱 I'm currently learning **Advanced ML/DL and Data Structures and Algorithm**
 - 👥 **Hackathon Leader** - Led teams to victory in national competitions
 - 🏆 **Grand Finalist** at Smart India Hackathon 2024 (Top 2.4% nationwide)
 - 💼 **Mentor** at Toyota Hackathon 2025
 - 💻 All of my projects are available at **[GitHub](https://github.com/AdiSinghCodes)**
-- 💬 Ask me about **Web Development, Machine Learning, Data Analysis**
+- 💬 Ask me about **Web Development, Machine Learning, Deep Learning and Data Analysis**
 - 📫 How to reach me: **adityapsingh565@gmail.com**
 - 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/aditya-singh-2b319b299)**
 - ⚡ Fun fact: **"Crafting intelligent solutions where code meets creativity!"**
@@ -81,13 +81,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/AdiSinghCodes)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)](https://github.com/AdiSinghCodes)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/AdiSinghCodes)
 
 </div>
 
@@ -131,7 +131,6 @@
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=gray&right_color=blue)
 
 </div>
 
