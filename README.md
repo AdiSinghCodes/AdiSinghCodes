@@ -77,6 +77,32 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiSinghCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/AdiSinghCodes)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiSinghCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/AdiSinghCodes)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdiSinghCodes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AdiSinghCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 📊 Detailed Stats
+
+<div align="center">
+
+![AdiSinghCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSinghCodes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=AdiSinghCodes%27s%20GitHub%20Statistics)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiSinghCodes&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
+
+---
+
 ## 🎯 Specializations
 
 - **🤖 Machine Learning & Deep Learning**: Building intelligent solutions with TensorFlow, scikit-learn
