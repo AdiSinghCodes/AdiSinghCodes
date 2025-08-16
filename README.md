@@ -77,22 +77,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/AdiSinghCodes)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)](https://github.com/AdiSinghCodes)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/AdiSinghCodes)
-
-</div>
-
----
-
 ## 🎯 Specializations
 
 - **🤖 Machine Learning & Deep Learning**: Building intelligent solutions with TensorFlow, scikit-learn
